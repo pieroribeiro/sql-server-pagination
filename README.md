@@ -15,11 +15,10 @@ Change the values below for yours values:
 Ex:
 PRPagination(10, 'id,title,description', ' AND id=''5''', 'date', 'DESC', 0)
 
-
 ## Authors
 
 * **Piero Ribeiro** 
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details
